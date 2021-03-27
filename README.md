@@ -1,5 +1,6 @@
 # test_dumways_id_3
 saya menggunakan node.js untuk soal nomer 1,2,dan 3
+bisa menggukanan compiler online https://replit.com/languages/nodejs
 
 untuk membuat DATABASE saya menggunakan XAMPP dan meng eksekusi query di cmd
 
